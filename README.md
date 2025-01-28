@@ -1,6 +1,8 @@
 # 던전 & 파티
 언리얼 엔진5를 사용한 PvE 게임   
 개발 인원: 우성윤   
+시연 영상: https://youtu.be/enNEV6QAl5g   
+발표 영상: https://youtu.be/K6XfOLoKrsQ
 
 # 개요
 ![image](https://github.com/user-attachments/assets/c6cc12c9-f7f5-49ad-ab8a-b976f6116948)   
@@ -20,7 +22,3 @@
 ![image](https://github.com/user-attachments/assets/9d68249c-b2b0-4354-afcf-9c96d1039cb7)
 일반적인 게임은 특정 스테이지가 정해져 있지만, 해당 게임은 완전한 랜덤이기에 난의도를 높이고 지루함을 나추고자 하였습니다.   
 또한 시점 변경, 발차기 등 다양한 액션을 통해 플레이어가 원하는 방향으로 플레이할 수 있도록 하였습니다.   
-
-# 영상
-시연 영상: https://youtu.be/enNEV6QAl5g   
-발표 영상: https://youtu.be/K6XfOLoKrsQ
