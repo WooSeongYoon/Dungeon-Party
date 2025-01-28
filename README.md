@@ -22,5 +22,5 @@
 또한 시점 변경, 발차기 등 다양한 액션을 통해 플레이어가 원하는 방향으로 플레이할 수 있도록 하였습니다.   
 
 # 영상
-시연 영상: https://youtu.be/enNEV6QAl5g
+시연 영상: https://youtu.be/enNEV6QAl5g   
 발표 영상: https://youtu.be/K6XfOLoKrsQ
